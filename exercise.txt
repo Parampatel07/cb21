@@ -1,0 +1,7 @@
+1) write a program to accept month number from user. display message "this month has 28 or 29 days" if month if february
+
+2)write a prgoram to findout whether given year is milinium year or not.
+1000,2000,3000,4000,5000,...
+
+3) Write a programe to display how many days the given month 
+
