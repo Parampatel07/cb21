@@ -31,3 +31,12 @@ units           price  per unit
 >400            5
 
 also calculate 5% percentage energy charge on total bill amount & display total amount 
+
+
+Loop
+------------------------------------------------------
+1] 2, 1, 3, 4, 7, 11, 18, 29, 47, 76, 123 .... 3000
+
+2] Write a programe to print odd number till 3000
+
+3] 0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55 ... 1000

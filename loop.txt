@@ -17,7 +17,7 @@ there are two types of loop
         in entry control loop, first conditions is checked, if it is true then only code withing loop execute, then condition is checked and so on 
         if is possible that entry control loop may not execute even single time.
             while loop 
-            for loop   
+            for loop
             
     2) exit control loop 
         in exit control loop, first code block within loop execute, then condition is checked, if condition is false then code block will not execute next time.
