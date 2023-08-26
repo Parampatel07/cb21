@@ -9,14 +9,14 @@ void main()
      int mutlipler = 1;
      int answer = 0;
      printf("Enter table number ");
-     scanf("%d",&table);
+     scanf("%d", &table);
      answer = table;
      do
      {
           printf("\n%d x %d = %d ", table, mutlipler, answer);
           mutlipler++;
           answer = table * mutlipler;
-     }while(mutlipler <= 10) ; 
+     } while (mutlipler <= 10);
      // printf("\n%d x %d = %d ",table,mutlipler,answer);
      // mutlipler++;
      // answer = table * mutlipler;

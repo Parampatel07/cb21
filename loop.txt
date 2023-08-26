@@ -66,7 +66,6 @@ do while loop
 
 what is nested loop?
 ------------------------------
-
 when we use loop inside another loop it is called nested loop or nesting of loop. one can use any loop (while,for,do while) in any loop (while,for,do while). one use loop inside another loop which inside another loop and so on.  in nested loop main loop is called outer loop and loop inside loop is called inner loop. inner loop will start, execute and complete as many times outer loop execute. 
 example 
     while(condition) //outer loop (1st level)
