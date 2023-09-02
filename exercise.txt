@@ -59,3 +59,5 @@ https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
 // Write a programe to store 5 subject marks for 1 student and also find total and average.
 
 Write a programe to take 5 name as input 
+
+Write a programe to findout bmi and bmi category for user using function 
